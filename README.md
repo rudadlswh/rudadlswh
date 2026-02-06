@@ -7,8 +7,10 @@
 ---
 
 ## 🔍 소개
-- 사용자 경험을 기준으로 기능을 설계하고 흐름을 단순하게 만드는 것을 좋아합니다.
-- 안정성과 확장성을 함께 고려하는 개발을 지향합니다.
+- 제품 목표와 사용자 흐름을 먼저 정리하고, 핵심 기능을 단순하게 만드는 것을 좋아합니다.
+- 예외 상황과 엣지 케이스를 미리 정의해 품질을 안정적으로 끌어올리는 편입니다.
+- 유지보수성과 확장성을 위해 책임을 명확히 나눈 구조를 선호합니다.
+- 팀과의 커뮤니케이션에서 일정과 리스크를 명확히 공유하려고 노력합니다.
 
 ## 🧰 기술 스택
 <p>
@@ -42,6 +44,6 @@
 
 ## 📊 GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudadlswh&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudadlswh&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudadlswh" height="150" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudadlswh" height="150" alt="Top languages">
 </div>
