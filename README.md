@@ -1,54 +1,47 @@
-## 안녕하세요 조경민입니다. 🫡
-<br>
-🌟 업무에 사용 중이거나, 사용했던 기술입니다.
-<P>
+<div align="center">
+  <h1>안녕하세요, 조경민입니다 🫡</h1>
+  <p>문제의 본질을 파고들고, 유지보수 가능한 코드를 선호합니다.</p>
+  <p><b>Web · Backend · iOS</b></p>
+</div>
 
-  
+---
 
+## 🔍 소개
+- 사용자 경험을 기준으로 기능을 설계하고 흐름을 단순하게 만드는 것을 좋아합니다.
+- 안정성과 확장성을 함께 고려하는 개발을 지향합니다.
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-</P>
-<br>
-🌟 업무에 사용 중이거나, 사용했던 DB입니다.
-<P>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-  
-</P>
+## 🧰 기술 스택
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+</p>
 
-<br>
-🌟 업무에 사용 중이거나, 사용했던 IDE입니다.
-<P>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<!--
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" /></div>
-  </P>
--->
+## 🗄 DB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
 
-<!--
-**rudadlswh/rudadlswh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Tools
+<p>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+## 📌 최근 작업
+- [work-out-timer](https://github.com/rudadlswh/work-out-timer) : 운동 루틴을 위한 타이머 앱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 📊 GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudadlswh&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudadlswh&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages">
+</div>
