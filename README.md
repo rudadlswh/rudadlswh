@@ -39,6 +39,7 @@
 
 ## 📌 최근 작업
 - [work-out-timer](https://github.com/rudadlswh/work-out-timer) : 운동 루틴을 위한 타이머 앱
+- [discord](https://github.com/rudadlswh/discord) : Kotlin 기반 앱(작업중)
 
 ## 📊 GitHub
 <div align="center">
