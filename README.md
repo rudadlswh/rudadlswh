@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 조경민
@@ -97,7 +96,7 @@ XCTest · JUnit · [추가 예정] · [추가 예정]
   <img src="https://github-readme-stats.vercel.app/api?username=rudadlswh&show_icons=true&hide_border=true" height="145" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudadlswh&layout=compact&hide_border=true" height="145" alt="Top Languages" />
 </div>
-```
+
 
 ---
 
