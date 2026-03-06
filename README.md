@@ -1,49 +1,101 @@
 <div align="center">
-  <h1>안녕하세요, 조경민입니다 🫡</h1>
-  <p>문제의 본질을 파고들고, 유지보수 가능한 코드를 선호합니다.</p>
-  <p><b>Web · Backend · iOS</b></p>
+
+# 조경민
+### 제품 관점으로 문제를 해결하는 Web · Backend · iOS 개발자
+
+사용자 흐름과 운영 안정성을 함께 고려해 유지보수 가능한 서비스를 만듭니다.<br/>
+관심 분야: iOS(SwiftUI) · Backend API 설계 · 테스트 자동화
+
 </div>
 
 ---
 
-## 🔍 소개
-- 제품 목표와 사용자 흐름을 먼저 정리하고, 핵심 기능을 단순하게 만드는 것을 좋아합니다.
-- 예외 상황과 엣지 케이스를 미리 정의해 품질을 안정적으로 끌어올리는 편입니다.
-- 유지보수성과 확장성을 위해 책임을 명확히 나눈 구조를 선호합니다.
-- 팀과의 커뮤니케이션에서 일정과 리스크를 명확히 공유하려고 노력합니다.
+## About
+- 제품 목표를 먼저 정리하고, 문제를 작은 단위로 구조화해 해결합니다.
+- 예외 상황과 엣지 케이스를 사전에 정의해 안정성을 높이는 방식을 선호합니다.
+- 확장 가능한 구조와 명확한 책임 분리로 유지보수성을 확보하는 데 집중합니다.
+- 최근에는 SwiftUI 기반 iOS 기능 구현, 위치/HealthKit 연동, 로컬 데이터 관리, 테스트 자동화에 집중하고 있습니다.
 
-## 🧰 기술 스택
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-</p>
+## Tech Stack
+> 과도한 장식을 피하기 위해 카테고리별 최소 뱃지만 사용합니다.
 
-## 🗄 DB
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-## 🧪 Tools
-<p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+REST API · [추가 예정] · [추가 예정]
 
-## 📌 최근 작업
-- [work-out-timer](https://github.com/rudadlswh/work-out-timer) : 운동 루틴을 위한 타이머 앱
-- [discord](https://github.com/rudadlswh/discord) : Kotlin 기반 앱(작업중)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+[추가 예정]
 
-## 📊 GitHub
+### Mobile
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+MVVM · CoreLocation · HealthKit
+
+### DB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### DevOps/Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Testing
+XCTest · JUnit · [추가 예정] · [추가 예정]
+
+---
+
+## Featured Projects
+### 1) RunLog (iOS)
+**문제/해결:** 러닝 기록이 흩어지는 문제를 해결하기 위해 위치/건강 데이터를 통합한 기록 경험 제공<br/>
+**주요 기술:** SwiftUI, MVVM, CoreLocation, HealthKit, TTS, SwiftData, MapKit, KakaoMaps
+
+- 앱 구조(MVVM)와 화면 상태 전환 흐름 설계
+- 위치 추적 및 기록 저장 로직 구현
+- 러닝 중/후 회고 경험(기록 확인)까지 이어지는 사용자 흐름 정리
+
+### 2) Web/Backend 프로젝트 #1
+**문제/해결:** [문제/해결 한 줄 요약 입력]<br/>
+**주요 기술:** [기술1], [기술2], [기술3]
+
+- [내 핵심 역할 1]
+- [내 핵심 역할 2]
+- [임팩트/성과]
+
+### 3) Web/Backend 프로젝트 #2
+**문제/해결:** [문제/해결 한 줄 요약 입력]<br/>
+**주요 기술:** [기술1], [기술2], [기술3]
+
+- [내 핵심 역할 1]
+- [내 핵심 역할 2]
+- [임팩트/성과]
+
+---
+
+## Contact
+- Email: whrudals56@gmail.com
+- Blog: (추가 예정)
+- LinkedIn: (추가 예정)
+- Notion: (추가 예정)
+
+---
+
+## Stats (선택)
+### 버전 A) 카드 미포함 (권장)
+텍스트 중심으로 유지
+
+### 버전 B) 카드 포함
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudadlswh" height="150" alt="GitHub stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudadlswh" height="150" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudadlswh&show_icons=true&hide_border=true" height="145" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudadlswh&layout=compact&hide_border=true" height="145" alt="Top Languages" />
 </div>
