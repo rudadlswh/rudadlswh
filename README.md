@@ -16,9 +16,6 @@
 - 확장 가능한 구조와 명확한 책임 분리로 유지보수성을 확보하는 데 집중합니다.
 - 최근에는 SwiftUI 기반 iOS 기능 구현, 위치/HealthKit 연동, 로컬 데이터 관리, 테스트 자동화에 집중하고 있습니다.
 
-## Tech Stack
-> 과도한 장식을 피하기 위해 카테고리별 최소 뱃지만 사용합니다.
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -28,17 +25,16 @@
 
 ### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-REST API · [추가 예정] · [추가 예정]
+REST API
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-[추가 예정]
+
 
 ### Mobile
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
-MVVM · CoreLocation · HealthKit
 
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -51,7 +47,7 @@ MVVM · CoreLocation · HealthKit
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Testing
-XCTest · JUnit · [추가 예정] · [추가 예정]
+XCTest · JUnit
 
 ---
 
@@ -65,24 +61,6 @@ XCTest · JUnit · [추가 예정] · [추가 예정]
 - 앱 구조(MVVM)와 화면 상태 전환 흐름 설계
 - 위치 추적 및 기록 저장 로직 구현
 - 러닝 중/후 회고 경험(기록 확인)까지 이어지는 사용자 흐름 정리
-
-### 2) Web/Backend 프로젝트 #1
-
-**문제/해결:** [문제/해결 한 줄 요약 입력]<br/>
-**주요 기술:** [기술1], [기술2], [기술3]
-
-- [내 핵심 역할 1]
-- [내 핵심 역할 2]
-- [임팩트/성과]
-
-### 3) Web/Backend 프로젝트 #2
-
-**문제/해결:** [문제/해결 한 줄 요약 입력]<br/>
-
-
-- [내 핵심 역할 1]
-- [내 핵심 역할 2]
-- [임팩트/성과]
 
 ---
 
