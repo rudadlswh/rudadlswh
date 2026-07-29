@@ -88,15 +88,6 @@ AI가 만든 결과의 위험을 판단하고 데이터 정합성·관측 가능
 
 ---
 
-## Other Project
-
-### RunLog — iOS 러닝 기록 앱
-
-SwiftUI, CoreLocation, HealthKit, SwiftData를 활용해 위치와 건강 데이터를 통합하고,  
-러닝 기록 저장부터 회고까지 이어지는 사용자 흐름을 구현했습니다.
-
----
-
 ## Contact
 
 - Email: [whrudals56@gmail.com](mailto:whrudals56@gmail.com)
