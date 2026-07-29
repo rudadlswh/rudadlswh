@@ -91,7 +91,3 @@ AI가 만든 결과의 위험을 판단하고 데이터 정합성·관측 가능
 ## Contact
 
 - Email: [whrudals56@gmail.com](mailto:whrudals56@gmail.com)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudadlswh&show_icons=true&hide_border=true" height="145" alt="GitHub Stats" />
-</div>
